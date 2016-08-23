@@ -23,6 +23,7 @@ You'll need:
 
 1.  Copy the project to a local folder. Ensure that the file path is not too long, otherwise you might run into an error in Visual Studio when it tries to install the NuGet packages necessary for the project.
 2.  Then open the `HumongousInsuranceAgentsAddin.sln` in Visual Studio.
+3.  Set the startup document to the included Excel spreadsheet, HumongousInsuranceAgentsAddin.xls.
 3.  Press F5 to build and deploy the sample add-in. Excel launches and displays the add-in in the spreadsheet. You can play with the add-in by interacting with the controls.
 
 ## Additional resources
