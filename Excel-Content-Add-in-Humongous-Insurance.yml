@@ -1,0 +1,19 @@
+### YamlMime:Sample
+sample:
+- name: Humongous Insurance content Excel add-in
+  path: ''
+  description: The Humongous Insurance content add-in shows how you can use the new JavaScript API for Microsoft Excel 2016 to create a compelling Excel add-in. This add-in shows how you can embed rich, interactive objects into Office documents. The following figure show the main screens of this add-in.
+  readme: ''
+  generateZip: FALSE
+  isLive: TRUE
+  technologies:
+  - Office Add-in
+  azureDeploy: ''
+  author: umasubra
+  platforms: []
+  languages:
+  - JavaScript
+  extensions:
+    products:
+    - Excel
+    scenarios: []
