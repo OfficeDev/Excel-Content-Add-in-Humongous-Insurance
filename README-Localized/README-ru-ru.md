@@ -33,3 +33,6 @@
 ## <a name="copyright"></a>Авторское право
 
 (c) Корпорация Майкрософт (Microsoft Corporation), 2016. Все права защищены.
+
+
+Этот проект соответствует [правилам поведения Майкрософт, касающимся обращения с открытым кодом](https://opensource.microsoft.com/codeofconduct/). Дополнительную информацию см. в разделе [часто задаваемых вопросов по правилам поведения](https://opensource.microsoft.com/codeofconduct/faq/). Если у вас возникли вопросы или замечания, напишите нам по адресу [opencode@microsoft.com](mailto:opencode@microsoft.com).

@@ -26,10 +26,13 @@ Humongous Insurance コンテンツ アドインでは、Microsoft Excel 2016 �
 3.  スタートアップ ドキュメントには、含まれている Excel のスプレッドシート、HumongousInsuranceAgentsAddin.xls を設定します。
 3.  F5 キーを押して、サンプル アドインをビルドおよび展開します。Excel が起動し、スプレッドシートにアドインが表示されます。コントロールを操作することでアドインを使うことができます。
 
-## <a name="additional-resources"></a>追加リソース
+## <a name="additional-resources"></a>その他の技術情報
 
 *   [Office デベロッパー センター](http://dev.office.com/)
 
 ## <a name="copyright"></a>著作権
 
-Copyright (c) 2016 Microsoft. All rights reserved.
+Copyright (c) 2016 Microsoft.All rights reserved.
+
+
+このプロジェクトでは、[Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/) が採用されています。詳細については、「[Code of Conduct の FAQ](https://opensource.microsoft.com/codeofconduct/faq/)」を参照してください。また、その他の質問やコメントがあれば、[opencode@microsoft.com](mailto:opencode@microsoft.com) までお問い合わせください。

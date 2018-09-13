@@ -33,3 +33,6 @@ Necesitará:
 ## <a name="copyright"></a>Copyright
 
 Copyright (c) 2016 Microsoft. Todos los derechos reservados.
+
+
+Este proyecto ha adoptado el [Código de conducta de código abierto de Microsoft](https://opensource.microsoft.com/codeofconduct/). Para obtener más información, consulte las [preguntas más frecuentes sobre el Código de conducta](https://opensource.microsoft.com/codeofconduct/faq/) o póngase en contacto con [opencode@microsoft.com](mailto:opencode@microsoft.com) si tiene otras preguntas o comentarios.

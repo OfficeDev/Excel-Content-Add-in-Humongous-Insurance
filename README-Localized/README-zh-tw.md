@@ -33,3 +33,6 @@ Humongous Insurance 內容增益集將示範如何使用 Microsoft Excel 2016 �
 ## <a name="copyright"></a>著作權
 
 Copyright (c) 2016 Microsoft.著作權所有，並保留一切權利。
+
+
+此專案已採用 [Microsoft 開放原始碼管理辦法](https://opensource.microsoft.com/codeofconduct/)。如需詳細資訊，請參閱[管理辦法常見問題集](https://opensource.microsoft.com/codeofconduct/faq/)，如果有其他問題或意見，請連絡 [opencode@microsoft.com](mailto:opencode@microsoft.com)。
