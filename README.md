@@ -1,3 +1,17 @@
+---
+topic: sample
+products:
+- Excel
+- Office 365
+languages:
+- CSS
+- JavaScript
+extensions:
+  contentType: samples
+  technologies:
+  - Add-ins
+  createdDate: 8/23/2016 10:47:22 AM
+---
 
 # Excel-Content-Add-in-Humongous-Insurance
 
