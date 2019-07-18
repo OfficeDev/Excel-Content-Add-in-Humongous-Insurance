@@ -1,15 +1,16 @@
 ---
 topic: sample
 products:
-- Excel
-- Office 365
+- office-excel
+- office-365
 languages:
-- CSS
-- JavaScript
+- javascript
 extensions:
   contentType: samples
   technologies:
   - Add-ins
+  platforms:
+  - CSS
   createdDate: 8/23/2016 10:47:22 AM
 ---
 
