@@ -462,7 +462,8 @@
     // Handle errors
     function handleError(error) {
         // Always be sure to catch any accumulated errors that bubble up from the Excel.run execution
-        app.showNotification("Error: " + error);
+        
+        showNotification("Error: " + error);
         console.log("Error: " + error);
         if (error instanceof OfficeExtension.Error) {
             console.log("Debug info: " + JSON.stringify(error.debugInfo));
