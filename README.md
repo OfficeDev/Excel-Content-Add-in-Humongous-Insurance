@@ -1,20 +1,6 @@
----
-page_type: sample
-products:
-- office-excel
-- office-365
-languages:
-- javascript
-extensions:
-  contentType: samples
-  technologies:
-  - Add-ins
-  platforms:
-  - CSS
-  createdDate: 8/23/2016 10:47:22 AM
----
+# [ARCHIVED] Excel-Content-Add-in-Humongous-Insurance
 
-# Excel-Content-Add-in-Humongous-Insurance
+**Note:** This sample is archived and no longer actively maintained. Security vulnerabilities may exist in the project, or its dependencies. If you plan to reuse or run any code from this repo, be sure to perform appropriate security checks on the code or dependencies first. Do not use this project as the starting point of a production Office Add-in. Always start your production code by using the [Yeoman generator for Office Add-ins](https://github.com/OfficeDev/generator-office) or maintained samples, and follow security best practices as you develop the add-in.<img width="658" height="126" alt="image" src="https://github.com/user-attachments/assets/926654a3-f49d-4703-a3d8-7513fd84b279" />
 
 The Humongous Insurance content add-in shows how you can use the new JavaScript API for Microsoft Excel 2016 to create a compelling Excel add-in. This add-in shows how you can embed rich, interactive objects into Office documents. The following figure show the main screens of this add-in.
 
