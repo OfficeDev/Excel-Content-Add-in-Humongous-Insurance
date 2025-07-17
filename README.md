@@ -1,6 +1,6 @@
 # [ARCHIVED] Excel-Content-Add-in-Humongous-Insurance
 
-**Note:** This sample is archived and no longer actively maintained. Security vulnerabilities may exist in the project, or its dependencies. If you plan to reuse or run any code from this repo, be sure to perform appropriate security checks on the code or dependencies first. Do not use this project as the starting point of a production Office Add-in. Always start your production code by using the [Yeoman generator for Office Add-ins](https://github.com/OfficeDev/generator-office) or maintained samples, and follow security best practices as you develop the add-in.
+**Note:** This sample has been moved to the main Office Add-ins Samples repo at [Excel content add-in: Humongous Insurance](https://github.com/OfficeDev/Office-Add-in-samples/tree/main/Samples/excel-content-add-in). The sample here is archived and no longer actively maintained. Security vulnerabilities may exist in the project, or its dependencies. If you plan to reuse or run any code from this repo, be sure to perform appropriate security checks on the code or dependencies first. Do not use this project as the starting point of a production Office Add-in. Always start your production code by using the [Yeoman generator for Office Add-ins](https://github.com/OfficeDev/generator-office) or maintained samples, and follow security best practices as you develop the add-in.
 
 The Humongous Insurance content add-in shows how you can use the new JavaScript API for Microsoft Excel 2016 to create a compelling Excel add-in. This add-in shows how you can embed rich, interactive objects into Office documents. The following figure show the main screens of this add-in.
 
@@ -22,10 +22,11 @@ You'll need:
 
 ## Run the project
 
+1.  To avoid unnecessary security scans on an archived sample, the **packages.config** file was renamed. To restore the project's dependencies, rename **packages-archive.config** to **packages.config**.
 1.  Copy the project to a local folder. Ensure that the file path is not too long, otherwise you might run into an error in Visual Studio when it tries to install the NuGet packages necessary for the project.
-2.  Then open the `HumongousInsuranceAgentsAddin.sln` in Visual Studio.
-3.  Set the startup document to the included Excel spreadsheet, HumongousInsuranceAgentsAddin.xls.
-3.  Press F5 to build and deploy the sample add-in. Excel launches and displays the add-in in the spreadsheet. You can play with the add-in by interacting with the controls.
+1.  Then open the `HumongousInsuranceAgentsAddin.sln` in Visual Studio.
+1.  Set the startup document to the included Excel spreadsheet, HumongousInsuranceAgentsAddin.xls.
+1.  Press F5 to build and deploy the sample add-in. Excel launches and displays the add-in in the spreadsheet. You can play with the add-in by interacting with the controls.
 
 ## Additional resources
 
